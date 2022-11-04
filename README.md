@@ -1,31 +1,58 @@
-drawing
-University Admit Eligibility Predictor
+<br>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
+  <h2 align="center"> University Admit Eligibility Predictor <br></h2>
 
-IBM-Project-34799-1660276811
-Your success will be determined by the manner in which you use the tools you have been given to work with.
+  </div>
+ <br> 
+ <h3>IBM-Project-34799-1660276811</h3>  
+    
+    
+> Your success will be determined by the manner in which you use the tools you have been given to work with.  
+<br>
+  
 
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
+<ul><i>
+  <li> SHIYAM K </li>
+  <li> SIVABHARATH S P</li>
+  <li> TAMILSELVAN S </li>
+  <li> VIJAY S</li>
+  </i>
+  </ul>
+<br>
+<h2>📃 Abstract:</h2><i>
+<ul>
+<li>Students are often worried about their chances of admission to University. </li>
+<li>The aim of this project is to help students in shortlisting universities with their profiles. </li>
+<li>The predicted output gives them a fair idea about their admission chances to a particular university. </li>
+<li>This analysis should also help students who are currently preparing or will be preparing to get a better idea. </li>
+  </i>
+  </ul>
+<br>
+  
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
- Team Members:
-SHIYAM K
-SIVABHARATH S P
-TAMILSELVAN S
-VIJAY J S
+<p float="middle" align="center">
+    <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=400>
+    <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=400>
+</p>
+<div align="center">
+<table> 
+  <tr>
+    <td>Applied Data Science</td>
+  </tr>
+ </table>
 
-📃 Abstract:
-Students are often worried about their chances of admission to University.
-The aim of this project is to help students in shortlisting universities with their profiles.
-The predicted output gives them a fair idea about their admission chances to a particular university.
-This analysis should also help students who are currently preparing or will be preparing to get a better idea.
-
- Domain
- 
-
-Applied Data Science
-
- Tasks:
- Brainstorm and Ideation
- Problem Statement
- Empathy Map
- Assignment 1
- Assignment 2
- Assignment 3
+  </div>
+ <br>
+  
+  <!-- tasks -->
+  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
+  
+- [x] Brainstorm and Ideation <br>
+- [x] Problem Statement <br>
+- [x] Empathy Map <br>
+- [x] Assignment 1 <br>
+- [x] Assignment 2  <br>
+- [x] Assignment 3  <br>  
